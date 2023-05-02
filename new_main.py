@@ -7,6 +7,7 @@ def print_hello():
         'Spagetti',
         'Pizza',
         'bibimbob'
+        'kimchi'
     ] # w/o trailing comma
     names = [
              'John', 
